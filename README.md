@@ -78,3 +78,14 @@ CHANGELOG.md
 ```
 
 > **Uploading through the GitHub web interface?** It silently skips folders whose name begins with a dot, so `.claude-plugin/` never uploads by drag-and-drop. Create or edit those two JSON files with **Add file → Create new file** (type the full path, slashes included) from the repository root page.
+
+
+---
+
+## Who this is for
+
+This toolkit is built by and for the IESE PE/VC Club. The skills distil teaching material the club assembled for its members.
+
+The repository is public so that club members can install the plugin without needing a GitHub account. That is a convenience, not an invitation: please do not redistribute it outside the club, and do not republish the contents under another name. If you are not a club member and this is useful to you, get in touch rather than forking.
+
+The club's source PDFs are third-party material and are not included here, only original summaries with attribution.
