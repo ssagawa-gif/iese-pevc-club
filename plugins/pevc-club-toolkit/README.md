@@ -52,3 +52,8 @@ Covers: VC fundamentals · sourcing and due diligence · valuation and metrics �
 The club's PDF library is third-party material and is **not** bundled with this plugin. What ships here are original summaries with attribution, plus a catalogue so students can open the originals from the club's shared folder.
 
 Benchmark figures carry their source and vintage. They are reference points, not current prices — both skills are instructed to search for a current figure before putting a market number in any document.
+
+
+## For club members
+
+This toolkit belongs to the IESE PE/VC Club and is meant for its members. Please do not redistribute it outside the club or republish its contents under another name. Not a member and want to use it? Get in touch.
