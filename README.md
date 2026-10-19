@@ -4,7 +4,7 @@ Plugin marketplace for the IESE Business School PE/VC Club.
 
 | Plugin | What it does |
 |---|---|
-| **PE/VC Club Toolkit** | *Investment Thesis Coach* — a Socratic guide that walks you through the 14 blocks of an investment thesis, requires an external source for every claim, and applies the reasoning lenses of ten leading VC firms. |
+| **PE/VC Club Toolkit** | *Investment Thesis Coach* — a Socratic guide through the 14 blocks of an investment thesis, requiring an external source for every claim and applying the reasoning lenses of ten leading VC firms. *PE/VC Library* — a reference desk over the club's teaching material, from fund economics to term sheets to interview prep. |
 
 ---
 
@@ -68,7 +68,13 @@ plugins/
       plugin.json               # manifest and the plugin VERSION
     skills/
       investment-thesis-coach/
-        SKILL.md                # the agent itself
+        SKILL.md                # the coach
+        references/             # venture math, market sizing, memo craft
+      pevc-library/
+        SKILL.md                # the reference desk
+        references/             # one file per module, plus the catalogue
     README.md
 CHANGELOG.md
 ```
+
+> **Uploading through the GitHub web interface?** It silently skips folders whose name begins with a dot, so `.claude-plugin/` never uploads by drag-and-drop. Create or edit those two JSON files with **Add file → Create new file** (type the full path, slashes included) from the repository root page.
